@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, welcome, you have stumbled upon the space I am using to learn about git and github.
+Hello, welcome, you have stumbled upon the space I am using to learn about git and github. 
+
+Here's a new line experimenting on branching.
